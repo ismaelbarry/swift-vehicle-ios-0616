@@ -70,7 +70,7 @@ class RaceCarSpec: QuickSpec {
             }
             
             // superclass methods
-            
+            /*
             describe("goFast") {
                 it("sets speed equal to the maxSpeed") {
                     formula1.goFast()
@@ -88,6 +88,7 @@ class RaceCarSpec: QuickSpec {
                     expect(cupSeries.heading).to(equal(0))
                 }
             }
+            */
             
             describe("halt") {
                 it("sets speed equal to 0") {

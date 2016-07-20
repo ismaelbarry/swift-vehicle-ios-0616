@@ -51,6 +51,7 @@ class VehicleSpec: QuickSpec {
                 }
             }
             
+            /*
             describe("goFast") {
                 it("sets speed equal to the maxSpeed") {
                     skateboard.goFast()
@@ -69,6 +70,7 @@ class VehicleSpec: QuickSpec {
                 }
                 
             }
+ */
             
             describe("halt") {
                 it("sets speed equal to 0") {

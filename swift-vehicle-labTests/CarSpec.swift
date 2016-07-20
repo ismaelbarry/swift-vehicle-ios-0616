@@ -54,7 +54,7 @@ class CarSpec: QuickSpec {
                     expect(clownCar.heading).to(equal(0))
                 }
             }
-            
+            /*
             describe("goFast") {
                 it("sets speed equal to the maxSpeed") {
                     honda.goFast()
@@ -73,6 +73,7 @@ class CarSpec: QuickSpec {
                 }
                 
             }
+            */
             
             describe("halt") {
                 it("sets speed equal to 0") {
